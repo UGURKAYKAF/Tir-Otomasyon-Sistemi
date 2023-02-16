@@ -1,0 +1,5 @@
+SQL server Management Studio Açılırken;
+
+Server name : '.'
+
+Database import edilirken adı : 'Otomasyon' olmalı

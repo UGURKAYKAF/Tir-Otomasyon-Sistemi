@@ -1,0 +1,73 @@
+C:\Users\MUHAMMED\source\repos\Tır Otomasyonu\Tır Otomasyonu\bin\Debug\Tır Otomasyonu.exe.config
+C:\Users\MUHAMMED\source\repos\Tır Otomasyonu\Tır Otomasyonu\bin\Debug\Tır Otomasyonu.exe
+C:\Users\MUHAMMED\source\repos\Tır Otomasyonu\Tır Otomasyonu\bin\Debug\Tır Otomasyonu.pdb
+C:\Users\MUHAMMED\source\repos\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır_Otomasyonu.Form1.resources
+C:\Users\MUHAMMED\source\repos\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır_Otomasyonu.Loading.resources
+C:\Users\MUHAMMED\source\repos\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır_Otomasyonu.Properties.Resources.resources
+C:\Users\MUHAMMED\source\repos\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır Otomasyonu.csproj.GenerateResource.cache
+C:\Users\MUHAMMED\source\repos\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMED\source\repos\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır Otomasyonu.exe
+C:\Users\MUHAMMED\source\repos\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır Otomasyonu.pdb
+C:\Users\MUHAMMED\source\repos\Tır Otomasyonu\Tır Otomasyonu\bin\Debug\Tır Otomasyonu.exe.manifest
+C:\Users\MUHAMMED\source\repos\Tır Otomasyonu\Tır Otomasyonu\bin\Debug\Tır Otomasyonu.application
+C:\Users\MUHAMMED\source\repos\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır Otomasyonu.exe.manifest
+C:\Users\MUHAMMED\source\repos\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır Otomasyonu.application
+C:\Users\MUHAMMED\source\repos\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır_Otomasyonu.about.resources
+C:\Users\MUHAMMED\source\repos\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır_Otomasyonu.inf.resources
+C:\Users\MUHAMMED\source\repos\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır_Otomasyonu.Destek.resources
+C:\Users\MUHAMMED\source\repos\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır_Otomasyonu.help.resources
+C:\Users\MUHAMMED\source\repos\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır Otomasyonu.csproj.ResolveComReference.cache
+C:\Users\MUHAMMED\source\repos\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\MUHAMMED\source\repos\Tır Otomasyonu\Tır Otomasyonu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MUHAMMED\source\repos\Tır Otomasyonu\Tır Otomasyonu\bin\Debug\itextsharp.dll
+C:\Users\MUHAMMED\source\repos\Tır Otomasyonu\Tır Otomasyonu\bin\Debug\itextsharp.xml
+C:\Users\MUHAMMED\source\repos\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır Otomasyonu.csproj.CopyComplete
+C:\Users\MUHAMMED\Desktop\C# Poje Dosyaları\Tır Otomasyonu\Tır Otomasyonu\bin\Debug\Tır Otomasyonu.exe.config
+C:\Users\MUHAMMED\Desktop\C# Poje Dosyaları\Tır Otomasyonu\Tır Otomasyonu\bin\Debug\Tır Otomasyonu.exe.manifest
+C:\Users\MUHAMMED\Desktop\C# Poje Dosyaları\Tır Otomasyonu\Tır Otomasyonu\bin\Debug\Tır Otomasyonu.application
+C:\Users\MUHAMMED\Desktop\C# Poje Dosyaları\Tır Otomasyonu\Tır Otomasyonu\bin\Debug\Tır Otomasyonu.exe
+C:\Users\MUHAMMED\Desktop\C# Poje Dosyaları\Tır Otomasyonu\Tır Otomasyonu\bin\Debug\Tır Otomasyonu.pdb
+C:\Users\MUHAMMED\Desktop\C# Poje Dosyaları\Tır Otomasyonu\Tır Otomasyonu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MUHAMMED\Desktop\C# Poje Dosyaları\Tır Otomasyonu\Tır Otomasyonu\bin\Debug\itextsharp.dll
+C:\Users\MUHAMMED\Desktop\C# Poje Dosyaları\Tır Otomasyonu\Tır Otomasyonu\bin\Debug\itextsharp.xml
+C:\Users\MUHAMMED\Desktop\C# Poje Dosyaları\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\MUHAMMED\Desktop\C# Poje Dosyaları\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır Otomasyonu.csproj.ResolveComReference.cache
+C:\Users\MUHAMMED\Desktop\C# Poje Dosyaları\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır_Otomasyonu.about.resources
+C:\Users\MUHAMMED\Desktop\C# Poje Dosyaları\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır_Otomasyonu.Destek.resources
+C:\Users\MUHAMMED\Desktop\C# Poje Dosyaları\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır_Otomasyonu.Form1.resources
+C:\Users\MUHAMMED\Desktop\C# Poje Dosyaları\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır_Otomasyonu.help.resources
+C:\Users\MUHAMMED\Desktop\C# Poje Dosyaları\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır_Otomasyonu.inf.resources
+C:\Users\MUHAMMED\Desktop\C# Poje Dosyaları\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır_Otomasyonu.Loading.resources
+C:\Users\MUHAMMED\Desktop\C# Poje Dosyaları\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır_Otomasyonu.Properties.Resources.resources
+C:\Users\MUHAMMED\Desktop\C# Poje Dosyaları\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır Otomasyonu.csproj.GenerateResource.cache
+C:\Users\MUHAMMED\Desktop\C# Poje Dosyaları\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMED\Desktop\C# Poje Dosyaları\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır Otomasyonu.exe.manifest
+C:\Users\MUHAMMED\Desktop\C# Poje Dosyaları\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır Otomasyonu.application
+C:\Users\MUHAMMED\Desktop\C# Poje Dosyaları\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır Otomasyonu.csproj.CopyComplete
+C:\Users\MUHAMMED\Desktop\C# Poje Dosyaları\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır Otomasyonu.exe
+C:\Users\MUHAMMED\Desktop\C# Poje Dosyaları\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır Otomasyonu.pdb
+C:\Users\furkan\Desktop\210111335_Muhammed_Demir\Tır Otomasyonu\Tır Otomasyonu\bin\Debug\Tır Otomasyonu.exe.config
+C:\Users\furkan\Desktop\210111335_Muhammed_Demir\Tır Otomasyonu\Tır Otomasyonu\bin\Debug\Tır Otomasyonu.exe.manifest
+C:\Users\furkan\Desktop\210111335_Muhammed_Demir\Tır Otomasyonu\Tır Otomasyonu\bin\Debug\Tır Otomasyonu.application
+C:\Users\furkan\Desktop\210111335_Muhammed_Demir\Tır Otomasyonu\Tır Otomasyonu\bin\Debug\Tır Otomasyonu.exe
+C:\Users\furkan\Desktop\210111335_Muhammed_Demir\Tır Otomasyonu\Tır Otomasyonu\bin\Debug\Tır Otomasyonu.pdb
+C:\Users\furkan\Desktop\210111335_Muhammed_Demir\Tır Otomasyonu\Tır Otomasyonu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\furkan\Desktop\210111335_Muhammed_Demir\Tır Otomasyonu\Tır Otomasyonu\bin\Debug\itextsharp.dll
+C:\Users\furkan\Desktop\210111335_Muhammed_Demir\Tır Otomasyonu\Tır Otomasyonu\bin\Debug\itextsharp.xml
+C:\Users\furkan\Desktop\210111335_Muhammed_Demir\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\furkan\Desktop\210111335_Muhammed_Demir\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\furkan\Desktop\210111335_Muhammed_Demir\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır Otomasyonu.csproj.ResolveComReference.cache
+C:\Users\furkan\Desktop\210111335_Muhammed_Demir\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır_Otomasyonu.about.resources
+C:\Users\furkan\Desktop\210111335_Muhammed_Demir\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır_Otomasyonu.Destek.resources
+C:\Users\furkan\Desktop\210111335_Muhammed_Demir\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır_Otomasyonu.Form1.resources
+C:\Users\furkan\Desktop\210111335_Muhammed_Demir\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır_Otomasyonu.help.resources
+C:\Users\furkan\Desktop\210111335_Muhammed_Demir\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır_Otomasyonu.inf.resources
+C:\Users\furkan\Desktop\210111335_Muhammed_Demir\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır_Otomasyonu.Loading.resources
+C:\Users\furkan\Desktop\210111335_Muhammed_Demir\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır_Otomasyonu.Properties.Resources.resources
+C:\Users\furkan\Desktop\210111335_Muhammed_Demir\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır Otomasyonu.csproj.GenerateResource.cache
+C:\Users\furkan\Desktop\210111335_Muhammed_Demir\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\furkan\Desktop\210111335_Muhammed_Demir\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır Otomasyonu.exe.manifest
+C:\Users\furkan\Desktop\210111335_Muhammed_Demir\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır Otomasyonu.application
+C:\Users\furkan\Desktop\210111335_Muhammed_Demir\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır Otomasyonu.csproj.CopyComplete
+C:\Users\furkan\Desktop\210111335_Muhammed_Demir\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır Otomasyonu.exe
+C:\Users\furkan\Desktop\210111335_Muhammed_Demir\Tır Otomasyonu\Tır Otomasyonu\obj\Debug\Tır Otomasyonu.pdb
